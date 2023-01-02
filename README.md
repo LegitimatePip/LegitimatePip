@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LegitimatePip
-- 👀 I’m interested in bananas
-- 🌱 I’m currently learning math
-- 💞️ I’m looking to collaborate on life
-- 📫 How to reach me ... lol idk
+- 👋 Hi, I’m Pip Jackson!
+- 💬 Pronouns are he/they
+- 👀 I’m interested in bananas and brass banding
+- 🌱 I’m currently studying Maths at University of Warwick (alongside some Stats and Japanese)
+- 📫 How to reach me: pipbjackson@icloud.com
 
 <!---
 LegitimatePip/LegitimatePip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
