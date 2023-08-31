@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pip Jackson!
 - 💬 Pronouns are he/they
 - 👀 I’m interested in bananas and brass banding
-- 🌱 I’m currently studying Maths at University of Warwick (alongside some Stats and Japanese)
+- 🌱 I have just graudated with BSc in Maths at University of Warwick (having studied some Stats and Japanese alongside)
 - 📫 How to reach me: pipbjackson@icloud.com
 
 <!---
