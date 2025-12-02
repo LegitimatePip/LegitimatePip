@@ -2,7 +2,6 @@
 - 💬 Pronouns are he/they
 - 👀 I’m interested in bananas and brass banding
 - 🧮 I took my undergrad in Maths at University of Warwick (having studied some Stats and Japanese alongside)
-- 🧑‍🎓 I've just completed my MSc in Applied Data Science at Royal Holloway University of London
 - 📫 How to reach me: pipbjackson@icloud.com
 
 <!---
